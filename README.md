@@ -1,3 +1,7 @@
+# React Employee Directory
+
+# Steve's additions to the README
+
 # Unit 19 React Homework: Employee Directory
 
 ## Overview
