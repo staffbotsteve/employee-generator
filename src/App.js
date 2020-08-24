@@ -1,5 +1,6 @@
 import React from "react";
 import Main from "./components/Main";
+// import Nav from "./components/Nav;
 import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
 
